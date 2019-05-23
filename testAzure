@@ -1,0 +1,6 @@
+echo "# testazure" >> README.md
+git init
+git add README.md
+git commit -m "first time at github"
+git remote add origin https://github.com/vnitinkumar/testazure.git
+git push -u origin master
